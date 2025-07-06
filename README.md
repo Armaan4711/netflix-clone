@@ -18,7 +18,9 @@ This project is a basic clone of the Netflix landing page, built using HTML and 
 *   **HTML:**  For structuring the content and layout of the page.
 *   **CSS:**  For styling the elements and creating the Netflix-like visual appearance (styling is expected to be found in `style.css`, but wasn't provided).
 
-## Prerequisites
+## live preview
+* Click to preview:-https://armanflix.netlify.app/
+## Prerequisite
 
 To run this project, you will need:
 
